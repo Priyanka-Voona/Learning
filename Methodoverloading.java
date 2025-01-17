@@ -21,7 +21,8 @@ public class Methodoverloading {
 		Methodoverloading M = new Methodoverloading();
 
         M.display();                   
-        M.display(10);                   
-        M.display("Value", 20.5);      
+        M.display(20);                   
+        M.display("Value", 20.5); 
+		M.display(78);     
     }
 }
